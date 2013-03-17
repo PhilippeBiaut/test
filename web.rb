@@ -5,6 +5,5 @@ get '/' do
   <h1>Soozer</h1>
   <b>Development in progress ...</b>
   </center>
-  <b>soozer</b>
   "
 end
